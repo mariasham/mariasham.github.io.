@@ -1,8 +1,8 @@
 # mariasham.github.io.
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>HTML5 Tutorial<title>
+<head>
+<title>Maria's HTML5 Tutorial<title>
 </head>
 <body>
     <h1>Tutorial 1</h1>
