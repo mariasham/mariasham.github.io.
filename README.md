@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title> Maria's HTML5 Tutorial </title>
+        <title>HTML5 Tutorial</title>
     </head>
             
 <body>
