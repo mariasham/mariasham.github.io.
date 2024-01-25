@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>HTML5 Tutorial Evaluation</title> 
+    <title> HTML5 Tutorial Evaluation </title> 
   </head>
   <body>
     <h1>Tutorial 1</h1>
