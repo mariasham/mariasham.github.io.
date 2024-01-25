@@ -1,9 +1,10 @@
 # mariasham.github.io.
 <!DOCTYPE html>
 <html>
-<head>
-<title>Maria's HTML5 Tutorial<title>
-</head>
+    <head>
+        <title>Maria's HTML5 Tutorial<title>
+    </head>
+            
 <body>
     <h1>W3Schools</h1>
     <p><strong>URL: </strong>https://www.w3schools.com/videos/index.php</p>
@@ -16,6 +17,6 @@
         <p><strong>URL: </strong>https://www.javatpoint.com/html-tutorial</p>
         <p><strong>Target Audience Levels: </strong> JavaTPoint offers comprehensive tutorials for learners of all levels, from beginners to advanced users. Their lessons are accompanied by interactive code examples and quizzes that significantly enhance learner understanding. I found this particular tutorial to be exceptionally beginner-friendly, with the content broken down into easily digestible chunks. The explanations are presented in a clear and concise.</p>
         <p><strong>Recommendations: </strong> I wholeheartedly endorse JavaTPoint as the go-to resource for anyone looking to learn HTML5. Its extensive tutorial material and reliable nature make it an excellent choice. Unlike W3Schools, JavaTPoint may not be as well-known, but its content is no less valuable. Its interactive lessons are incredibly user-friendly, even for beginners, and its thorough explanations ensure complete comprehension. If you want to become an HTML5 expert, then JavaTPoint is the clear choice.</p>
-        <p><strong>Learned Concepts: </strong> HJavaTPoint's tutorials were super helpful for me to learn the basics of HTML structure, local storage, and other essential topics. The best part is that the lessons are short, interactive, and easy to understand. They use real-world examples, which makes the learning process engaging and practical. I really liked their approach of combining text explanations with practical examples, which made learning fun and easy.</p>
+        <p><strong>Learned Concepts: </strong> JavaTPoint's tutorials were super helpful for me to learn the basics of HTML structure, local storage, and other essential topics. The best part is that the lessons are short, interactive, and easy to understand. They use real-world examples, which makes the learning process engaging and practical. I really liked their approach of combining text explanations with practical examples, which made learning fun and easy.</p>
     </body>
 </html>
