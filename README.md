@@ -1,11 +1,9 @@
 # mariasham.github.io.
-
 <!DOCTYPE html>
 <html>
     <head>
         <title>HTML5 Tutorial</title>
-    </head>
-            
+    </head>         
 <body>
     <h1>W3Schools</h1>
     <p><strong>URL: </strong>https://www.w3schools.com/videos/index.php</p>
